@@ -65,20 +65,35 @@ Here are some screenshots showing the evolution of the prohect:
 
 ### **User 1**: _Atmosphere and fit_
 
-- All seems right. Maybe I feel a little shorter.
-- It is somehow uneasy. It is like a dungeon.
-- It is dark, but I can see just right all elements. Those blue balls adds some mistery. I don't know what to do, except looking arround.
+The user was testing the project in its firsts stages, when there was no game logic implemented, only the room and orbs.
+
+- Question: How do you feel about size and general atmosphere?
+- Answers:
+    - All seems right. Maybe I feel a little shorter.
+    - It is somehow uneasy. It is like a dungeon.
+    - It is dark, but I can see just right all elements. Those blue balls adds some mistery. I don't know what to do, except looking arround.
+- Changes made:  I upscaled a bit all the game objects in the scene, except the mountains. My original intention was to show a dungeon-like atmosphere so, I did not change nothing about illumination.
 
 ### **User 2**: _User interface_
 
-- I can understand the obvious! Just pressing Start and ... here we go!
-- Ok, those orbs are telling me something. Maybe I need to touch them in the same order.
-- The last interface is clear enough. I can replay the game.
+The user was testing the game whe all user interfaces and game logic was implemented. I had left the motion tests as the final stage.
+
+- Question: Do you know what to do in this game? Do you understand the goal?
+- Answers:
+    - I can understand the obvious! Just pressing Start and ... here we go!
+    - Ok, those orbs are telling me something. Maybe I need to touch them in the same order.
+    - The last interface is clear enough. I can replay the game.
+- Changes made: I changed nothing, because the user understanded it with no problem at all.
 
 ### **User 3**: _Motion Sickness_
 
-- It feels a little uneasy at first, but you get used to it.
-- I don't feel any dizziness with the movement.
+The user tested the motion with all other elements already implemented.
+
+- Question: How do you feel about the movement?
+- Answers:
+    - It feels a little uneasy at first, but you get used to it.
+    - I don't feel any dizziness with the movement.
+- Changes made: I modified the speed a little to ensure a pleasant experience.
 
 ## Break down of the final piece
 
